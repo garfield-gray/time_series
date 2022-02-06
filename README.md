@@ -1,2 +1,2 @@
 # time_series
-mostly about causality in time series especially "Granger"
+mostly about causality in time series especially "Granger".
